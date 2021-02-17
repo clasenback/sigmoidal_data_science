@@ -23,7 +23,7 @@ My credentials include a Specialization on Small Hydro Plants from Universidade 
 
 ### Python Crash Course ###
 * **Hello World:** http://bit.ly/3ptHb8d
-* **Cre cre cre:** https://bit.ly/
+* **Tuplas:** http://bit.ly/3qvytrm
 
 ---
 
