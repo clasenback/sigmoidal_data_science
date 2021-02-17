@@ -20,9 +20,9 @@ My credentials include a Specialization on Small Hydro Plants from Universidade 
 
 
 ## Projects:
-Some of my public projects:
 
-* **Bla bla bla:** https://bit.ly/
+### Python Crash Course ###
+* **Hello World:** http://bit.ly/3ptHb8d
 * **Cre cre cre:** https://bit.ly/
 
 ---
