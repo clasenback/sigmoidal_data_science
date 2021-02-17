@@ -21,6 +21,11 @@ My credentials include a Specialization on Small Hydro Plants from Universidade 
 
 ## Projects:
 
+### Apredendo Python ###
+* **IME/USP: Curso Python:** http://bit.ly/3s9dtHr
+* **Real Python Blog:** https://realpython.com/
+* **Curso MIT:** http://bit.ly/37qoFaF 
+
 ### Python Crash Course ###
 * **Hello World:** http://bit.ly/3ptHb8d
 * **Operadores aritméticos:** http://bit.ly/3dnwwcE
