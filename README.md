@@ -45,6 +45,7 @@ My credentials include a Specialization on Small Hydro Plants from Universidade 
 ### Data Science na Prática ###
 * **Google Colab e Jupyter Notebooks:** http://bit.ly/2NR1lfo
 * **Como montar um Portfólio para Data Science:** https://bit.ly/3r2eEIk
+* **Guia de Portfólio, Personal Branding e Data Science:** http://bit.ly/3kwteFs
 
 ---
 
