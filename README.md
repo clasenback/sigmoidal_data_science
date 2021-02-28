@@ -16,9 +16,8 @@ My credentials include a Specialization on Small Hydro Plants from Universidade 
 **Background in:** .
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
 * [LinkedIn](https://www.linkedin.com/in/alexback)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@clasen.back.eng)
 
 
 ## Projects:
