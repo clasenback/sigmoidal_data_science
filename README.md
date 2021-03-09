@@ -26,6 +26,7 @@ My credentials include a Specialization on Small Hydro Plants from Universidade 
 * **IME/USP: Curso Python:** http://bit.ly/3s9dtHr
 * **Real Python Blog:** https://realpython.com/
 * **Curso MIT:** http://bit.ly/37qoFaF 
+* **Pandas documentation:** https://pandas.pydata.org/docs/index.html
 * **Python for Data Analysis, 2nd Edition:** https://github.com/wesm/pydata-book
 
 ### Python Crash Course ###
